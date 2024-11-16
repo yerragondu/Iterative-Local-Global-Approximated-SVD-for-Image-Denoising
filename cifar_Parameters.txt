@@ -1,0 +1,54 @@
+INITIAL SETTINGS
+----------------
+
+Resizing shape : (96, 96)
+Window shape   : (8, 8)
+Window step    : 4
+Sigma          : 3
+Learning ratio : 1
+K-SVD iter.    : 5
+INITIAL SETTINGS
+----------------
+
+Resizing shape : (96, 96)
+Window shape   : (8, 8)
+Window step    : 4
+Sigma          : 3
+Learning ratio : 1
+K-SVD iter.    : 5
+INITIAL SETTINGS
+----------------
+
+Resizing shape : (96, 96)
+Window shape   : (8, 8)
+Window step    : 4
+Sigma          : 3
+Learning ratio : 1
+K-SVD iter.    : 5
+INITIAL SETTINGS
+----------------
+
+Resizing shape : (96, 96)
+Window shape   : (8, 8)
+Window step    : 4
+Sigma          : 3
+Learning ratio : 1
+K-SVD iter.    : 5
+INITIAL SETTINGS
+----------------
+
+Resizing shape : (96, 96)
+Window shape   : (8, 8)
+Window step    : 4
+Sigma          : 10
+Learning ratio : 1
+K-SVD iter.    : 5
+INITIAL SETTINGS
+----------------
+
+Resizing shape : (96, 96)
+Window shape   : (8, 8)
+Window step    : 4
+Sigma          : 6
+Learning ratio : 1
+K-SVD iter.    : 5
